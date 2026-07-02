@@ -85,6 +85,7 @@ print(digest.cnbr())
 
 ## Project Structure
 
+```
 ── src/fastaprot/
 │   ├── __init__.py
 │   └── main.py
@@ -94,6 +95,7 @@ print(digest.cnbr())
 ├── LICENSE
 ├── pyproject.toml
 └── README.md
+```
 
 ## Requirements
 - Python >= 3.9
